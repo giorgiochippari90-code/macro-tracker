@@ -82,4 +82,4 @@ npm run build
 
 - I dati sono salvati in **localStorage** del browser — persistono tra sessioni
 - Il barcode scanner usa **html5-qrcode** + **Open Food Facts** (gratuito)
-- L’AI per gli alimenti sconosciuti usa l’API Anthropic
+- L’AI per gli alimenti sconosciuti usa l’API Anthropic 
